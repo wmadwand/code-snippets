@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c17d97c8df794847a38d808921d19b1, type: 3}
+  m_Name: TutorialPageListData_MAIN
+  m_EditorClassIdentifier: 
+  pageLinkList:
+  - page: {fileID: 11400000, guid: 35c729a2f6105d7449e598111838ebce, type: 2}
+  - page: {fileID: 11400000, guid: 70d746d7d42711c489208efe68a7c7e7, type: 2}
+  - page: {fileID: 11400000, guid: ecbc58bd0050af14aa87f6cab1af6532, type: 2}
+  - page: {fileID: 11400000, guid: 1ad0f92fca6d82a479d27d11da595643, type: 2}
+  - page: {fileID: 11400000, guid: 7487f26c4d4b8814dbee289f88607fcc, type: 2}
+  - page: {fileID: 11400000, guid: bc97f3489818dcd49ba24f2112784f2b, type: 2}
+  - page: {fileID: 11400000, guid: ab9bd557f94ba404e9fd9523c9aa99a3, type: 2}
+  - page: {fileID: 11400000, guid: 18ce66fcba1f54545bdea7dd62984711, type: 2}
+  - page: {fileID: 11400000, guid: 3d1c4c417fb82de4eac1f9028f30af44, type: 2}
+  - page: {fileID: 11400000, guid: 4a3cda2771c69f74ea59f45ff14b0d2f, type: 2}
+  - page: {fileID: 11400000, guid: 8973ed2d7bb10114cab537ff96da58e1, type: 2}
+  - page: {fileID: 11400000, guid: 49a318060d0ec4d439dfa0912f61f092, type: 2}
+  - page: {fileID: 11400000, guid: 5da5be2e7d679dc4abf0d4699061beb0, type: 2}
+  - page: {fileID: 11400000, guid: 754a3f3511445384b98312a7af53a608, type: 2}
+  - page: {fileID: 11400000, guid: 94c86e54d2844f64b874e1b8b597fbec, type: 2}
+  - page: {fileID: 11400000, guid: ac3449011f87c8042b22cb7a0d454c7e, type: 2}
+  - page: {fileID: 11400000, guid: 3e912ff122a502a4f86ee31e94e8d54b, type: 2}
+  - page: {fileID: 11400000, guid: 940129873b6824a4e95ccf55c38b70fd, type: 2}
+  - page: {fileID: 11400000, guid: 3427bdb9404c6674287f21fe6e82537f, type: 2}
+  - page: {fileID: 11400000, guid: e04a3c25765d4ed438442583f22708dc, type: 2}
+  - page: {fileID: 11400000, guid: ddcbedddb95dc69448eff0ba24ee884c, type: 2}
+  - page: {fileID: 11400000, guid: 258a3f3544fab2b43927732623fc263e, type: 2}
+  - page: {fileID: 11400000, guid: 5a475fca76d767040b3d323021d29970, type: 2}
+  - page: {fileID: 11400000, guid: 828b5778e9f7a3f40bac112dcc1fc270, type: 2}

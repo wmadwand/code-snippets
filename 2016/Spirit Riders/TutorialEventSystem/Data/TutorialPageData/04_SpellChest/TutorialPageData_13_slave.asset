@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1c15d794e8be0c4f91f7eab1e5b43c7, type: 3}
+  m_Name: TutorialPageData_13_slave
+  m_EditorClassIdentifier: 
+  type: 1
+  OnEvent: 100
+  proceedButton: 500
+  chapter: 600
+  placeToShow: 1
+  recoverProgressAfterCrash: 0
+  hasTitle: 1
+  title: "\u041C\u0415\u041D\u042E \u0414\u0423\u0425\u041E\u0412"
+  titleFontSize: 30
+  infoType: 0
+  infoText: "\u041E\u0442\u043A\u0440\u043E\u0439 \u043F\u0430\u0440\u0430\u043C\u0435\u0442\u0440\u044B
+    \u0410\u0439\u0440\u043E!"
+  infoTextFontSize: 40
+  infoImage: {fileID: 0}
+  callToAction: "\u041D\u0410\u0416\u041C\u0418 \u041D\u0410 \u0414\u0423\u0425\u0410
+    \u0412\u041E\u0417\u0414\u0423\u0425\u0410"
+  callToActionFontSize: 30
+  spiritImage: {fileID: 21300000, guid: e85ae8f9494f64e808b622d72d08c30b, type: 3}
+  tooltipPosition: 0
+  buttonType: 0
+  hasSlavePages: 0
+  delayBetweenPages: 0
+  slavePageList: []

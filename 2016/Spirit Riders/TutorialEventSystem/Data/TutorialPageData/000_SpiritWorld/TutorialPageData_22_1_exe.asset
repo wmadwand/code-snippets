@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1c15d794e8be0c4f91f7eab1e5b43c7, type: 3}
+  m_Name: TutorialPageData_22_1_exe
+  m_EditorClassIdentifier: 
+  type: 0
+  OnEvent: 2000
+  proceedButton: 150
+  chapter: 200
+  placeToShow: 1
+  recoverProgressAfterCrash: 0
+  hasTitle: 1
+  title: "\u0414\u043E\u0431\u0440\u043E \u043F\u043E\u0436\u0430\u043B\u043E\u0432\u0430\u0442\u044C
+    \u0432 Spirit Riders!"
+  titleFontSize: 25
+  infoType: 1
+  infoText: 
+  infoTextFontSize: 0
+  infoImage: {fileID: 21300000, guid: e2a3817eebc56fe4392981e826a2cfe2, type: 3}
+  callToAction: "\u0414\u041B\u042F \u041A\u041E\u041C\u0424\u041E\u0420\u0422\u041D\u041E\u0419
+    \u0418\u0413\u0420\u042B \u0414\u0415\u0420\u0416\u0418 \u0423\u0421\u0422\u0420\u041E\u0419\u0421\u0422\u0412\u041E
+    \u0414\u0412\u0423\u041C\u042F \u0420\u0423\u041A\u0410\u041C\u0418"
+  callToActionFontSize: 20
+  spiritImage: {fileID: 21300018, guid: a5432cd37532ced43b0f35fcf33bd058, type: 3}
+  tooltipPosition: 1
+  buttonType: 1
+  hasSlavePages: 0
+  delayBetweenPages: 0
+  slavePageList: []

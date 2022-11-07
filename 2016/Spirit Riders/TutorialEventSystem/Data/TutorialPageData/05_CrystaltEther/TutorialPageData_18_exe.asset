@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1c15d794e8be0c4f91f7eab1e5b43c7, type: 3}
+  m_Name: TutorialPageData_18_exe
+  m_EditorClassIdentifier: 
+  type: 0
+  OnEvent: 1800
+  proceedButton: 1200
+  chapter: 700
+  placeToShow: 0
+  recoverProgressAfterCrash: 1
+  hasTitle: 1
+  title: "\u042D\u0424\u0418\u0420\u041D\u042B\u0419 \u041A\u041E\u041B\u041E\u0414\u0415\u0426"
+  titleFontSize: 30
+  infoType: 0
+  infoText: "\u042F \u0413\u0440\u043E\u0440, \u0434\u0443\u0445 \u0417\u0435\u043C\u043B\u0438.
+    \u0410 \u044D\u0442\u043E \u0438\u0441\u0442\u043E\u0447\u043D\u0438\u043A, \u0432\u044B\u0440\u0430\u0431\u0430\u0442\u044B\u0432\u0430\u044E\u0449\u0438\u0439
+    \u042D\u0444\u0438\u0440. \u0413\u0440\u0440\u0440, \u0442\u044B \u043C\u043E\u0436\u0435\u0448\u044C
+    \u0441\u043E\u0431\u0440\u0430\u0442\u044C \u043D\u0435\u043C\u043D\u043E\u0433\u043E
+    \u0443\u0436\u0435 \u0441\u0435\u0439\u0447\u0430\u0441!"
+  infoTextFontSize: 25
+  infoImage: {fileID: 0}
+  callToAction: "\u041A\u041E\u0421\u041D\u0418\u0421\u042C, \u0427\u0422\u041E\u0411\u042B
+    \u0421\u041E\u0411\u0420\u0410\u0422\u042C \u042D\u0424\u0418\u0420"
+  callToActionFontSize: 20
+  spiritImage: {fileID: 21300000, guid: 2e9c3f392e9eb45b4b2f23ad3aa2a624, type: 3}
+  tooltipPosition: 0
+  buttonType: 0
+  hasSlavePages: 1
+  delayBetweenPages: 0
+  slavePageList:
+  - page: {fileID: 11400000, guid: 43e7f7fc8333f6e468994aefe1b99847, type: 2}
+  - page: {fileID: 11400000, guid: d08fa3bb304e73846bd4ecbd1fcee019, type: 2}
+  - page: {fileID: 11400000, guid: 85299d1b8714eeb42b4d2ce260fb1e30, type: 2}
